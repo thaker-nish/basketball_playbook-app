@@ -1,0 +1,2 @@
+class BaksetballPlay < ApplicationRecord
+end
